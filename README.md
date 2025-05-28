@@ -23,6 +23,7 @@ Gak ngubah data game, tapi tampilannya dan vibes-nya kayak pake cheat premium!
 1. Install Termux
 2. Jalankan:
    ```bash
-   tuto
-   1.git clone
-   cd redz-module-freefire
+   git clone https://github.com/petangZi/redz-module-free-fire.git
+   cd redz-module-free-fire
+   bash rdzTErXff.sh
+   
