@@ -1,13 +1,13 @@
 # RDZMODLFF 😈🔥
-Module Termux rasa Brevent yang didesain buat Free Fire biar main makin smooth, makin jago, tapi tetep HALAL 💯  
+Module Termux rasa Brevent yang didesain buat Free Fire biar main makin smooth, makin jago, tapi tidak merubah data aplikasi 💯  
 Gak ngubah data game, tapi tampilannya dan vibes-nya kayak pake cheat premium!  
 
-> Dibuat oleh: **King REDZ** aka developer paling gila tapi amanah 😎
+> Dibuat oleh: **King REDZ** aka developer paling gila tapi amanah 😎anti gimmick
 
 ---
 
 ## 📦 Fitur Utama
-- 🎯 Easy Headshot (simulasi drag assist)
+- 🎯 Easy Headshot (drag assist)
 - 💨 Easy Drag (biar jari lo gak sakit)
 - 🎮 Game Mode Booster
 - ⚙️ FPS + Ping Stabilizer
